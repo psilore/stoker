@@ -5,7 +5,7 @@ A svg iconset
 ## Getting started
 
 ## Icons
-![Heart icon](https://github.com/psilore/stoker/blob/[branch]/image.jpg?raw=true)
+![Heart icon](https://raw.githubusercontent.com/psilore/stoker/master/src/svg/heart.svg)
 ```xml
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
   <g fill="none" fill-rule="evenodd" class="stoker">
