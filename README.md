@@ -3,6 +3,14 @@
 A svg iconset
 
 ## Getting started
+Class based structure in order to change/add styles to icon.
+.
++-- svg
+|   +-- stroke (group)
+|   +-- bg (group)
+|       +-- near
+|       +-- middle
+|       +-- far
 
 ## Icons
 
