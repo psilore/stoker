@@ -1,6 +1,9 @@
 ![alt text](https://afterburner.io/stoker-git.svg "Stoker - A svg iconset")
-#### Stoker
+# Stoker
 A svg iconset
+
+DEMO: [https://afterburner.io/projects/stoker](https://afterburner.io/projects/stoker)
+Disco inferno is broken! =) Lol, dance like no one is watching.
 
 ## Getting started
 Class based structure in order to change/add styles to icon.
@@ -16,7 +19,7 @@ Class based structure in order to change/add styles to icon.
 
 #### Example
 
-
+![Styling example](https://raw.githubusercontent.com/psilore/stoker/master/src/example/example-class-styling.svg)
 
 
 SVG
