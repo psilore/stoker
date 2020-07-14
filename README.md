@@ -4,6 +4,7 @@ A svg iconset
 
 ## Getting started
 Class based structure in order to change/add styles to icon.
+```
 .
 +-- svg
 |   +-- stroke (group)
@@ -11,7 +12,7 @@ Class based structure in order to change/add styles to icon.
 |       +-- near
 |       +-- middle
 |       +-- far
-
+```
 ## Icons
 
 #### Heart
