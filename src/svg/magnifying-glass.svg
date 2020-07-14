@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-272 -272)">
+      <g class="magnifying-glass" transform="translate(277 277)">
+        <g fill="#D8D8D8" class="bg">
+          <circle cx="7" cy="7" r="7" class="near"/>
+        </g>
+        <circle cx="7" cy="7" r="7" stroke="#000" stroke-width="2" class="lens-stroke"/>
+        <line x1="12.5" x2="14.5" y1="12.5" y2="14.5" stroke="#000" stroke-linecap="square" class="rod-stroke"/>
+        <line x1="15.5" x2="21.5" y1="15.5" y2="21.5" stroke="#000" stroke-linecap="round" stroke-width="3" class="handle-stroke"/>
+      </g>
+    </g>
+  </g>
+</svg>

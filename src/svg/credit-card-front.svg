@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-80 -448)">
+      <g class="credit-card-front" transform="translate(83 456)">
+        <g fill="#D8D8D8" class="bg">
+          <rect width="26" height="17" class="near" rx="1"/>
+        </g>
+        <rect width="26" height="17" stroke="#000" stroke-width="2" class="card" rx="1"/>
+        <line x1="3.5" x2="7.5" y1="13.5" y2="13.5" stroke="#000" stroke-linecap="round" class="first-name"/>
+        <line x1="9.5" x2="17.5" y1="13.5" y2="13.5" stroke="#000" stroke-linecap="round" class="last-name"/>
+        <line x1="9" x2="11" y1="11" y2="11" stroke="#000" stroke-linecap="round" stroke-width="2" class="nr"/>
+        <line x1="15" x2="17" y1="11" y2="11" stroke="#000" stroke-linecap="round" stroke-width="2" class="nr"/>
+        <line x1="20" x2="22" y1="11" y2="11" stroke="#000" stroke-linecap="round" stroke-width="2" class="nr"/>
+        <line x1="4" x2="6" y1="11" y2="11" stroke="#000" stroke-linecap="round" stroke-width="2" class="nr"/>
+        <line x1="5" x2="6" y1="7" y2="7" stroke="#000" stroke-linecap="square" stroke-width="4" class="rf"/>
+      </g>
+    </g>
+  </g>
+</svg>

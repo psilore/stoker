@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-16 -272)">
+      <g class="image" transform="translate(18 274)">
+        <g fill="#D8D8D8" class="bg">
+          <rect width="28" height="28" class="far" rx="2"/>
+          <circle cx="7.5" cy="6.5" r="2.5" class="middle"/>
+          <polygon points=".875 22.75 8.75 14.438 12.688 18.813 19.25 11.813 27.125 20.125 27.125 27.125 .875 27.125" class="near"/>
+        </g>
+        <g stroke="#000" stroke-width="2" class="stroke">
+          <circle cx="7.5" cy="6.5" r="2.5" class="sun-stroke"/>
+          <polyline points="1 23 9 15 13 19 19 12 27 21" class="mountain-stroke"/>
+          <rect width="26" height="26" x="1" y="1" class="square-stroke" rx="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-400 -272)">
+      <g class="profile" transform="translate(407 278)">
+        <g fill="#D8D8D8" class="bg" transform="translate(5)">
+          <ellipse cx="4" cy="5" class="near" rx="4" ry="5"/>
+        </g>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.905 21.072c-.26-2.564-1.083-5.088-2.905-6.548-1.632-1.309-3.296-1.513-4.975-1.524h-.266L9 13.01 8.241 13c-1.684-.008-3.355.132-4.995 1.335L3 14.524l-.223.188C1.11 16.195.344 18.615.096 21.072" class="torso-stroke"/>
+        <ellipse cx="9" cy="5" stroke="#000" stroke-width="2" class="head-stroke" rx="4" ry="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

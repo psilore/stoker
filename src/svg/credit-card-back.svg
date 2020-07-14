@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-16 -448)">
+      <g class="credit-card-back" transform="translate(19 456)">
+        <g fill="#D8D8D8" class="bg">
+          <rect width="26" height="17" class="near" rx="1"/>
+        </g>
+        <polygon fill="#000" fill-rule="nonzero" points="26 9 26 14 0 14 0 9" class="magnetic-strip"/>
+        <rect width="26" height="17" stroke="#000" stroke-width="2" class="card" rx="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

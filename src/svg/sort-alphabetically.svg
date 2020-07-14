@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-144 -272)">
+      <g class="sort-alphabetically" transform="translate(146 278)">
+        <text fill="#000" class="a-z-stroke" font-family="Quicksand-Bold, Quicksand" font-size="15" font-weight="bold" letter-spacing="-.5">
+          <tspan x="2" y="15">A-Z</tspan>
+        </text>
+        <path stroke="#000" stroke-linecap="round" stroke-width="2" d="M4 17H1a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h3" class="left-bracket-stroke"/>
+        <path stroke="#000" stroke-linecap="round" stroke-width="2" d="M24 17h3a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1h-3 0" class="right-bracket-stroke"/>
+      </g>
+    </g>
+  </g>
+</svg>

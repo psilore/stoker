@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-80 -176)">
+      <g class="star" transform="translate(82 177)">
+        <polygon fill="#D8D8D8" points="14 23.225 5.966 27.667 7.5 18.26 1 11.598 9.983 10.225 14 1.667 18.017 10.225 27 11.598 20.5 18.26 22.034 27.667" class="near"/>
+        <path stroke="#000" stroke-width="2" d="M14 3.02l-3.648 7.772-8.277 1.264L8.068 18.2l-1.402 8.596L14 22.741l7.334 4.054-1.402-8.596 5.993-6.143-8.277-1.264L14 3.02z"/>
+      </g>
+    </g>
+  </g>
+</svg>

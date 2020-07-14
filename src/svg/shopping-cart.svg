@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" stroke-linecap="round" class="stoker">
+    <g stroke="#000" stroke-width="2" class="icon" transform="translate(-272 -448)">
+      <g class="shopping-cart" transform="translate(279 463)">
+        <polyline points="0 0 3 7 15.5 7 18.5 0" class="path-7"/>
+      </g>
+    </g>
+  </g>
+</svg>

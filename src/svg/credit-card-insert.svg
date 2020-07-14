@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-208 -448)">
+      <g class="credit-card-insert" transform="translate(213.5 455)">
+        <g class="bg" transform="rotate(90 9.25 10.25)">
+          <rect width="18" height="17" fill="#D8D8D8" class="near" rx="1"/>
+          <polygon fill="#000" fill-rule="nonzero" points="18 3 18 8 0 8 0 3" class="magnetic-strip"/>
+        </g>
+        <rect width="18" height="17" x="2" y="1.5" stroke="#000" stroke-width="2" class="card" rx="1" transform="rotate(90 11 10)"/>
+        <line x1="11" x2="11" y1="11.5" y2="-9.5" stroke="#000" stroke-linecap="round" stroke-width="2" class="machine-insert-slot" transform="rotate(90 11 1)"/>
+      </g>
+    </g>
+  </g>
+</svg>
