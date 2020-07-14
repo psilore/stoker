@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-16 -320)">
+      <g class="trashcan" transform="translate(21 326)">
+        <g fill="#D8D8D8" class="bg" transform="translate(3)">
+          <polyline points="0 4 2 21 14 21 16 4" class="near"/>
+          <rect width="6" height="3" x="5" stroke="#979797" class="far"/>
+        </g>
+        <polyline stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="3 4 5 21 17 21 19 4" class="bucket"/>
+        <line x1="8" x2="8" y1="8" y2="16" stroke="#000" stroke-linecap="round" stroke-width="2" class="stripe"/>
+        <line x1="11" x2="11" y1="8" y2="16" stroke="#000" stroke-linecap="round" stroke-width="2" class="stripe"/>
+        <line x1="14" x2="14" y1="8" y2="16" stroke="#000" stroke-linecap="round" stroke-width="2" class="stripe"/>
+        <g stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lid">
+          <polyline points="0 6 1 3 21 3 22 6" class="dome"/>
+          <polyline points="8 3 8 0 14 0 14 3" class="handle"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

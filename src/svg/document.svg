@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-464 -272)">
+      <g class="document" transform="translate(471 276)">
+        <g fill="#D8D8D8" class="bg">
+          <path stroke="#000" stroke-width="2" d="M1 0h8.41a1 1 0 0 1 .7.285l7.59 7.42a1 1 0 0 1 .3.716V23a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1z" class="near"/>
+          <path d="M18 8h-7a1 1 0 0 1-1-1V0l8 8z" class="far"/>
+        </g>
+        <path fill="#D8D8D8" stroke="#000" stroke-width="2" d="M1 0h8.41a1 1 0 0 1 .7.285l7.59 7.42a1 1 0 0 1 .3.716V23a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1a1 1 0 0 1 1-1z" class="sheet-stroke"/>
+        <path stroke="#000" stroke-width="2" d="M18 8h-7a1 1 0 0 1-1-1V0h0" class="fold-stroke"/>
+      </g>
+    </g>
+  </g>
+</svg>

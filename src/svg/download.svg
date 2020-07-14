@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="none" fill-rule="evenodd" class="stoker">
+    <g class="icon" transform="translate(-80 -272)">
+      <g class="download" transform="translate(86 279)">
+        <g fill="#D8D8D8" class="bg" transform="translate(5)">
+          <path d="M7 1v6h3l-5 7-5-7h3V1a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1z" class="far"/>
+        </g>
+        <path stroke="#000" stroke-linecap="round" stroke-width="2" d="M20 14v2.5c0 .828-.497 1.5-1.111 1.5H1.11C.497 18 0 17.328 0 16.5V14" class="down-stroke"/>
+        <path stroke="#000" stroke-width="2" d="M12 1v6h3l-5 7-5-7h3V1a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1z" class="arrow-stroke"/>
+      </g>
+    </g>
+  </g>
+</svg>
