@@ -16,7 +16,7 @@ Class based structure in order to change/add styles to icon.
 
 #### Example
 
-
+![Styling example](https://raw.githubusercontent.com/psilore/stoker/master/src/example/example-class-styling.svg)
 
 
 SVG
