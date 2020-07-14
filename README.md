@@ -5,14 +5,84 @@ A svg iconset
 ## Getting started
 Class based structure in order to change/add styles to icon.
 ```
-.
 +-- svg
-|   +-- stroke (group)
-|   +-- bg (group)
-|       +-- near
-|       +-- middle
-|       +-- far
+|   +-- .stroke (group)
+|       +-- outline (stroke)
+|   +-- .bg (group)
+|       +-- .near (fill)
+|       +-- .middle (fill)
+|       +-- .far (fill)
 ```
+
+#### Example
+
+
+
+
+SVG
+```
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g fill="none" fill-rule="evenodd" class="example">
+    <g class="image">
+      <g fill="#FF00C8" class="bg">
+        <rect width="28" height="28" class="far" opacity=".152" rx="2"/>
+        <circle cx="7.5" cy="6.5" r="2.5" fill-opacity=".5" class="middle"/>
+        <polygon fill-opacity=".9" points=".875 22.75 8.75 14.438 12.688 18.813 19.25 11.813 27.125 20.125 27.125 27.125 .875 27.125" class="near"/>
+      </g>
+      <g stroke="#810076" stroke-width="2" class="stroke">
+        <circle cx="7.5" cy="6.5" r="2.5" class="sun-stroke"/>
+        <polyline points="1 23 9 15 13 19 19 12 27 21" class="mountain-stroke"/>
+        <rect width="26" height="26" x="1" y="1" class="square-stroke" rx="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
+```
+
+CSS
+```
+:root {
+    --primary-color: rgb(129, 0, 118);
+    --dark-color: rgba(255, 0, 200, .9);
+    --normal-color: rgba(255, 0, 200, .5);
+    --light-color: rgba(255, 0, 200, .15);
+}
+
+svg g[class*="stroke"],
+svg rect[class*="stroke"],
+svg path[class*="stroke"] {
+    stroke: var(--primary-color);
+    stroke-linejoin: miter;
+    stroke-width: 2;
+}
+
+svg g[class*="far"],
+svg rect[class*="far"],
+svg path[class*="far"],
+svg polyline[class*="far"],
+svg circle[class*="far"] {
+    fill: var(--light-color);
+}
+
+svg g[class*="middle"],
+svg rect[class*="middle"],
+svg path[class*="middle"],
+svg polyline[class*="middle"],
+svg circle[class*="middle"] {
+    fill: var(--normal-color);
+}
+
+svg g[class*="near"],
+svg rect[class*="near"],
+svg path[class*="near"],
+svg polyline[class*="near"],
+svg circle[class*="near"],
+svg polygon[class*="near"] {
+    fill: var(--dark-color);
+}
+```
+
+
 ## Icons
 
 #### Heart
