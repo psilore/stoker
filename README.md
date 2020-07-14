@@ -18,6 +18,8 @@ Class based structure in order to change/add styles to icon.
 ```
 
 #### Example
+Showing capabilities with root and hsl value in css
+DEMO: [https://psilore.github.io/stoker/src/example/](https://psilore.github.io/stoker/src/example/)
 
 ![Styling example](https://raw.githubusercontent.com/psilore/stoker/master/src/example/example-class-styling.svg)
 
